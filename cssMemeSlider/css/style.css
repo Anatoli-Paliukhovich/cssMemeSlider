@@ -185,7 +185,7 @@ input {
 	.text-item {
 		position: absolute;
 		width: 100%;
-		text-align: center;
+		text-align: left;
 		bottom: -7.5rem;
 		margin: 0 0 2.3rem 0;
 	}
